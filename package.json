@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "engine": {
+    "node": "16.x"
+  },
   "dependencies": {
+    "uuid": "^11.0.3",
     "ws": "^8.18.0"
   }
 }
